@@ -12,5 +12,5 @@ Este es un escáner de puertos simple en Python que permite escanear puertos abi
 ## 📌 Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/Edimerk/PortScanner.git
+   cd PortScanner
